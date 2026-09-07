@@ -8,5 +8,5 @@ I hold a BSc in Biophysics (Nanobiology at TU Delft) and a MSc in Infectious Dis
 ### My Github 
 On my Github you will find two types of projects; research-related projects and playground-repos that are environments in which I develop my coding skills. 
 
-### Get in touch
-Feel free to get in touch with me questions or suggestions on my Github repositories at *stends2001@gmail.com*.
+### Contact
+Feel free to get in touch with me conerning questions or suggestions through my Linksta: https://linksta.cc/@sten-de-schrijver
