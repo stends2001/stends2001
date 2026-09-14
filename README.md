@@ -6,7 +6,7 @@ I am a PhD candidate at the Centre for Artificial Intelligence at the Robert Koc
 I hold a BSc in Biophysics (Nanobiology at TU Delft) and a MSc in Infectious Diseases and One Health (Erasmus Mundus Joint Degree). Before starting my PhD, I worked on a large variety of topics. I worked on mRNA quantification in the lab, related to HIV-infections, enterovirus surveillance (both epidemiologically and phylogenetically) and SIR-based modelling.
 
 ### My Github 
-On my Github you will find two types of projects; research-related projects and playground-repos that are environments in which I develop my coding skills. 
+On my Github you will find two types of projects; research-related projects and playground-repos that are environments in which I develop my coding skills. One example of such a playground-repo is **Mathvec**: a small application that turns math text into ``svg``s.
 
 ### Contact
 Feel free to get in touch with me conerning questions or suggestions through my Linksta: https://linksta.cc/@sten-de-schrijver
